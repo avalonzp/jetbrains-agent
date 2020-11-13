@@ -1,7 +1,6 @@
 # jetbrains-agent  
 
-> 支持的最新版本: IntelliJ IDEA 2020.2.3  
-> 其他JetBrains的IDE按道理也是可以用的，但是支持到哪些版本就没试过了。
+> JetBrains的IDE通吃，目前只测试过IntelliJ IDEA 2020.2.3没问题   
 ## 安装方法
 
 1. 先打开IDEA,解压jetbrains-agent.zip  
