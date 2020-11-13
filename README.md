@@ -15,4 +15,4 @@
 Qr7EpuKzNtnTuEmGcLg/YnYyVEcnvR4iflCYTHc6dwuB8Jbx7e6E43CPRA+KjL2O/D/C+hj/rDFrwCNgGAvLcJd3bcaJ8UTMh8FPxd2EfjDt0eopoRIRQKtw8Ua3hlm2i+GvhYnaJ5/F1XN7H/8uEtYqFQlJc9auMxAL3gdnsmY
 ```
 
-* 如果第4步没有自动填Activation Code或License Server的话到解压目录的/jetbrains-agent/lib里找到ACTIVATION_CODE.txt复制，Lincense Server填https://fls.jetbrains-agent.com(HTTP也行)
+* 如果第4步没有自动填Activation Code或License Server的话到解压目录的/jetbrains-agent/lib里找到ACTIVATION_CODE.txt复制，Lincense Server填https://fls.jetbrains-agent.com (HTTP也行)
